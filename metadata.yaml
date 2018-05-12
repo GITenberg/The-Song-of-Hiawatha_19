@@ -1,5 +1,8 @@
 _repo: The-Song-of-Hiawatha_19
-_version: 0.0.2
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Longfellow, Henry Wadsworth
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '26859'
     url: http://www.gutenberg.org/2009/agents/26859
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19#The-Song-of-Hiawatha
 gutenberg_bookshelf:
 - Poetry
 - Native America
